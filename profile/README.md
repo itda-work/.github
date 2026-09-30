@@ -11,7 +11,6 @@
 | 프로젝트 | 설명 |
 |---------|------|
 | [itda-hub](https://github.com/itda-work/itda-hub) | 도구를 골라 도구함에 담고 한 번의 로그인으로 Claude·Cowork에 연결하는 오픈소스 MCP 허브 |
-| [django-itda](https://github.com/itda-work/django-itda) | Django 앱을 AI 에이전트의 판정 있는 도구면으로 노출하는 패키지. ALLOW/DENY/ESCALATE 판정, 궤적, 사람 승인 |
 | [channels-nats](https://github.com/itda-work/channels-nats) | Django Channels용 NATS 채널 레이어. Redis 대신 Go 바이너리 하나로, Windows 친화적 |
 | [django-wireview](https://github.com/itda-work/django-wireview) | Django Channels 기반 실시간 서버 렌더링 UI 라이브러리. Phoenix LiveView에 해당 |
 
